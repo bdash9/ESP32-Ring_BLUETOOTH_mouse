@@ -27,6 +27,7 @@ It has a built -in 4M Flash. It has two modes: WiFi and Bluetooth, with a cerami
 
 Joystick is a 5way switch multi-direction switch touch reset key. Basically a joystick that you can click that has 6 legs
 
+![IMG_9534](https://github.com/user-attachments/assets/a818261c-93e6-4b6e-ae48-e89ce85b4385)
 
 <img width="437" height="355" alt="image" src="https://github.com/user-attachments/assets/b151ee32-b3b8-4eee-ad7e-d01f8686120e" />
 
