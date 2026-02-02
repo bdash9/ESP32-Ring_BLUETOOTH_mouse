@@ -10,9 +10,9 @@
 // Your working joystick mapping
 #define PIN_JOY_UP     5
 #define PIN_JOY_DOWN   3
-#define PIN_JOY_LEFT   1
+#define PIN_JOY_LEFT   0
 #define PIN_JOY_RIGHT  4
-#define PIN_JOY_CENTER 0
+#define PIN_JOY_CENTER 1
 #define LED_PIN 8
 
 // Mouse settings
@@ -20,7 +20,7 @@
 #define MOVE_SPEED_ACCEL     10
 #define ACCEL_DELAY         300
 #define LONG_PRESS_TIME    500
-#define SLEEP_PRESS_TIME   5000
+#define SLEEP_PRESS_TIME   10000
 #define IDLE_TIMEOUT      300000
 
 BleMouse bleMouse(DEVICE_NAME, "DIY", 100);
