@@ -10,9 +10,9 @@
 // Your working joystick mapping
 #define PIN_JOY_UP     5
 #define PIN_JOY_DOWN   3
-#define PIN_JOY_LEFT   0
+#define PIN_JOY_LEFT   1
 #define PIN_JOY_RIGHT  4
-#define PIN_JOY_CENTER 1
+#define PIN_JOY_CENTER 2
 #define LED_PIN 8
 
 // Mouse settings
