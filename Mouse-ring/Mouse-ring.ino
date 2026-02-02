@@ -8,7 +8,7 @@
 #define DEVICE_NAME "Mouse Ring"
 
 // Your working joystick mapping
-#define PIN_JOY_UP     6
+#define PIN_JOY_UP     5
 #define PIN_JOY_DOWN   3
 #define PIN_JOY_LEFT   1
 #define PIN_JOY_RIGHT  4
